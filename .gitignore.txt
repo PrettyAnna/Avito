@@ -1,0 +1,19 @@
+# Игнорируем настройки PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Игнорируем кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорируем виртуальные окружения
+venv/
+.venv/
+env/
+
+# Игнорируем файлы ОС
+.DS_Store
+Thumbs.db
